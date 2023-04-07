@@ -1,0 +1,23 @@
+[
+    {
+        "estados":"SP",
+        "valores": 67836.43
+    },
+    {
+        "estados":"RJ",
+        "valores": 36678.66
+    },
+    {
+        "estados":"MG",
+        "valores": 29229.88
+    },
+    {
+    
+        "estados":"ES",
+        "valores": 27165.48
+    },
+    {
+        "estados":"OUTROS",
+        "valores": 19849.53
+    }
+]
